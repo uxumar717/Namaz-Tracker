@@ -1,0 +1,72 @@
+{
+    "355b0e30": {
+        "2025-12-08": {
+            "Fajr": {
+                "is_prayed": true,
+                "method": "Masjid",
+                "time": "18:07"
+            },
+            "Dhuhr": {
+                "is_prayed": true,
+                "method": "Masjid",
+                "time": "18:07"
+            }
+        },
+        "2025-12-10": {
+            "Fajr": {
+                "is_prayed": true,
+                "method": "Masjid",
+                "time": "16:23"
+            },
+            "Dhuhr": {
+                "is_prayed": true,
+                "method": "Alone",
+                "time": "16:23"
+            },
+            "Asr": {
+                "is_prayed": true,
+                "method": "Kaza",
+                "time": "16:23"
+            },
+            "Maghrib": {
+                "is_prayed": true,
+                "method": "Alone",
+                "time": "16:23"
+            },
+            "Isha": {
+                "is_prayed": false,
+                "method": "Missed",
+                "time": null
+            }
+        }
+    },
+    "bbe8f37f": {
+        "2025-12-08": {
+            "Fajr": {
+                "is_prayed": true,
+                "method": "Alone",
+                "time": "21:39"
+            },
+            "Dhuhr": {
+                "is_prayed": true,
+                "method": "Kaza",
+                "time": "21:39"
+            },
+            "Asr": {
+                "is_prayed": true,
+                "method": "Masjid",
+                "time": "21:36"
+            },
+            "Isha": {
+                "is_prayed": true,
+                "method": "Alone",
+                "time": "21:39"
+            },
+            "Maghrib": {
+                "is_prayed": false,
+                "method": "Missed",
+                "time": null
+            }
+        }
+    }
+}
