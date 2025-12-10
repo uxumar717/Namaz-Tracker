@@ -1,0 +1,7 @@
+pandas
+streamlit
+os
+uuid
+datetime
+time
+plotly
